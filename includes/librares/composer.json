@@ -1,0 +1,10 @@
+{
+    "name": "temka/librares",
+    "authors": [
+        {
+            "name": "Artem",
+            "email": "temka.gordin@gmail.com"
+        }
+    ],
+    "require": {"google/apiclient": "^2.0"}
+}
